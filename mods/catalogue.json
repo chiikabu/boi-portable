@@ -1,0 +1,294 @@
+{
+ "version": 1,
+ "base": null,
+ "mods": [
+  {
+   "id": "rep-improved-chargebar",
+   "name": "!!! (REP) Improved Chargebar",
+   "description": "Don't you think vanilla charge bars are a little bit boring? In that case, this tweak might help! This mod changes the sprites of all charge bars, making them unique and fancy.",
+   "version": "1.3",
+   "bytes": 141465,
+   "files": 3,
+   "parts": 1
+  },
+  {
+   "id": "accuratedevilbeggars",
+   "name": "Accurate Devil Beggars",
+   "description": "",
+   "version": "2.1",
+   "bytes": 14791,
+   "files": 6,
+   "parts": 1
+  },
+  {
+   "id": "angel-shop-beggar-fix",
+   "name": "Angel Shop Beggar Fix",
+   "description": "This mod modifies base angel shops rooms, which moves beggar one tile to the right (yeah, that's it)",
+   "version": "1.2",
+   "bytes": 887,
+   "files": 2,
+   "parts": 1
+  },
+  {
+   "id": "animated-items",
+   "name": "Animated Items",
+   "description": "All items can now be toggled on/off individually in mod config menu and curse of the blind bug is fixed too! KingBobson is the reason this got made. He is also really good at making isaac mods. Beezy64 made the toggle system! KingBobson does it again. He fixed pretty much every bug and jankyness with the mod. No more stuttering over your head on pickup. No more disapearing item when picking up an ",
+   "version": "1.11",
+   "bytes": 3121897,
+   "files": 975,
+   "parts": 1
+  },
+  {
+   "id": "better-explosions",
+   "name": "!Better Explosions",
+   "description": "Repentance updated many graphics, sprites and animations, but they didn't do it for the explosions, and since they could be improved in my opinion, I did this. This mod changes the explosion graphics and animation, it also adds an explosion radius to see its hitbox, and it changes the impact of the explosion on the floor too, this mod affects all kinds of explosions. P.S: This mod also affects one",
+   "version": "1.4",
+   "bytes": 102061,
+   "files": 5,
+   "parts": 1
+  },
+  {
+   "id": "bonk-damage-sound",
+   "name": "Bonk Damage Sound!",
+   "description": "Replaces the normal &quot;Ah&quot; damage sound with pure comedy.",
+   "version": "1.7",
+   "bytes": 98584,
+   "files": 4,
+   "parts": 1
+  },
+  {
+   "id": "cat-coin",
+   "name": "cat coin",
+   "description": "",
+   "version": "1.2",
+   "bytes": 8981784,
+   "files": 35,
+   "parts": 1
+  },
+  {
+   "id": "classic-music",
+   "name": "Classic Music",
+   "description": "*** REPENTANCE UPDATE *** Fixed for Repentance. Repentance created a dilemna, which I am solving with multiple mods. Based on the option with the most user demand, this version keeps the classic DannyB music of the original, but leaves the Ridiculon Repetance tracks in place. I'm building alternate versions now that I will link right here soo that will provide the following options: (1) recycle fl",
+   "version": "1.4",
+   "bytes": 43596669,
+   "files": 58,
+   "parts": 3
+  },
+  {
+   "id": "enhanced-boss-bars",
+   "name": "'Enhanced Boss Bars",
+   "description": "A mod that reimagines boss health bars to be more unique, customizeable and responsive. [h2]Features[/h2] [list] [*] Unique icons for every boss [*] Over 45 special bar designs [*] One bar for each individual boss and boss segement [*] Fully customizable [*] Full modding support [/list] [h2]Known Issues[/h2] [b]Double bars / vanilla and modded bars visible[/b] Double bars can be caused by changing",
+   "version": "1.33",
+   "bytes": 803655,
+   "files": 346,
+   "parts": 1
+  },
+  {
+   "id": "existential-dread-lost",
+   "name": "tainted lost's existential dread",
+   "description": "makes tainted lost accurate to his gameplay jacob's lost form is also accurate now thank you all for getting me to the front page :))",
+   "version": "1.3",
+   "bytes": 89335,
+   "files": 6,
+   "parts": 1
+  },
+  {
+   "id": "external-item-descriptions",
+   "name": "!!~External item descriptions",
+   "description": "[img]https://i.imgur.com/l9nbaxP.png[/img] This mod displays detailed information about all items, trinkets, cards, runes and pills DIRECTLY onto your screen. Say goodbye to your browser tab with platinumgod or the wiki open ;) The Steam-Workshop version of this mod is compatible with Afterbirth+, Repentance, Repentogon and Repentance+. There are also versions for [url=https://github.com/wofsauge/",
+   "version": "5.22",
+   "bytes": 9448885,
+   "files": 218,
+   "parts": 1
+  },
+  {
+   "id": "garrys-mod-death-animation",
+   "name": "Garry's Mod Death Animation",
+   "description": "Hello everyone! The mod replaces the animation and death sound of the characters. Due to bugs and errors with other mods, it was changed to a general death animation for all PJs. Thanks to Not Your Sagittarius for the great animation she made and based this mod (https://twitter.com/NY_Sagittarius) IMPORTANT: Not compatible with mods that replace death animations and their sounds (isaac dies new.wa",
+   "version": "1.1",
+   "bytes": 1502491,
+   "files": 7,
+   "parts": 1
+  },
+  {
+   "id": "hanging-dream-catcher",
+   "name": "Hanging Dream Catcher",
+   "description": "[h2]&quot;Sweet Dreams, Isaac&quot;[/h2] This non-intrusive addition to the Dream Catcher will spawn as a hanging dream catcher when the boss room is completed, to serve as a reminder to NOT SKIP THE TRANSITION! Using the Ehwaz Rune or We Need To Go Deeper! will also create a hanging dream catcher. NOTE: The hanging dream catcher will spawn on all boss room wins, including labyrinth floors on the ",
+   "version": "1.9",
+   "bytes": 4401,
+   "files": 5,
+   "parts": 1
+  },
+  {
+   "id": "improved-chargebars",
+   "name": "!!! (REP+) Improved Chargebars",
+   "description": "[h1] Improved Chargebars! [/h1] This mod changes the UI sprites of the Chargebars, making them unique and fancy. [h1] ---------- Mod Compatibility ---------- [/h1] [list] [*] [b]Low Firerate Tear Chargebar [/b] [/list] [h1] ---------- Credits ---------- [/h1] [list] [*] [b] Graphic Designer, Artist: [/b] [url=https://steamcommunity.com/id/moonbert0] Eddie Moonbert. [/url] [/list] [u]✦ If you see a",
+   "version": "1.26",
+   "bytes": 1857367,
+   "files": 5,
+   "parts": 1
+  },
+  {
+   "id": "live_planetarium_chance",
+   "name": "Live Planetarium Chance",
+   "description": "[h1]You do [b]NOT[/b] get planetarium chance by &quot;skipping treasure rooms&quot; AND I'M TIRED OF PRETENDING OTHERWISE![/h1] ... [i]*ahem*[/i] This mod is a blatant copy paste of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2489006943]Planetarium Chance [REP+][/url] but instead of showing the current floor's chance, it instead shows the [b]next floor's planetarium chance[/b]! Aft",
+   "version": "1.11",
+   "bytes": 996079,
+   "files": 5,
+   "parts": 1
+  },
+  {
+   "id": "mantle-rework",
+   "name": "Mantle Rework",
+   "description": "This mod touches up a number of features related to the various sources of Holy Mantle-like effects in the base game. The exact changes this mod makes are:[list][*]Different sources of Mantle effects now have unique sprites on the health bar. [*]Wooden Cross and Holy Card no longer interfere with each other -- if you have the trinket and use a card, they will now stack to two shields. This is also",
+   "version": "1.10",
+   "bytes": 13330,
+   "files": 7,
+   "parts": 1
+  },
+  {
+   "id": "minecraft-glass-mantle",
+   "name": "Minecraft glass holy mantle",
+   "description": "Changes the holy mantle break sound to the minecraft glass block break sound",
+   "version": "1.1",
+   "bytes": 126448,
+   "files": 2,
+   "parts": 1
+  },
+  {
+   "id": "minecraft_itemdrop",
+   "name": "Items Drop on Death - Animation",
+   "description": "[b]This mod adds an animation when the player dies, dropping their items on the ground.[/b] It is only [u]visual[/u] and no pickups actually drop! It also doesn't change or add any sound effects, and does not modify the actual player animation. It simply adds the item drop animation on top of player death animation and works with custom death animations. When reviving or when another player is sti",
+   "version": "1.8",
+   "bytes": 9505371,
+   "files": 10,
+   "parts": 1
+  },
+  {
+   "id": "neko-hush",
+   "name": "Neko Hush",
+   "description": "Is Hush too scary? Then make him cute! (sort of) This mod edits all of hush's sprites and animations and adds cute cat-ears, whiskers, and mouth! It works with both AFTERBIRTH &amp; REPENTANCE Files edited are the following: \\resources\\gfx\\bosses\\afterbirth\\boss_078_bluebaby_hush.png \\resources\\gfx\\bosses\\afterbirth\\boss_hush.png \\resources\\gfx\\ui\\boss\\bossname_407.0_hush.png \\resources\\gfx\\ui\\bos",
+   "version": "1.3",
+   "bytes": 452427,
+   "files": 17,
+   "parts": 1
+  },
+  {
+   "id": "neko-stoney",
+   "name": "Neko Stoney Sprite",
+   "description": "You've read it. It's neko stoney sprite made by me from NY_Sagittarius video.",
+   "version": "1.1",
+   "bytes": 15216,
+   "files": 2,
+   "parts": 1
+  },
+  {
+   "id": "no-more-hidden-enemies",
+   "name": "No More Hidden Enemies",
+   "description": "This mod makes Needles, Pins (and their variants), Polycephalus, The Stain (and their variants) create rock particles when hidden to make their location more clear",
+   "version": "1.1",
+   "bytes": 1080,
+   "files": 2,
+   "parts": 1
+  },
+  {
+   "id": "pleading-beggars",
+   "name": "Pleading Beggars",
+   "description": "changes the normal beggar and devil beggar to be pleading and make them look super cute!! also changes the keymaster, hes less cute but got enhanced and looks a little more.. disturbed.... working on bomb beggar too, but he is a little weird to do, because its hard to make him look sad and angry and cute at the same time... enjoy♥",
+   "version": "1.7",
+   "bytes": 634839,
+   "files": 11,
+   "parts": 1
+  },
+  {
+   "id": "pogforgooditems",
+   "name": "!POG for Good Items",
+   "description": "[h1] Requires Repentance [/h1] This mod does the following: [list] [*]You'll pog if you see an item that has quality 3 or higher. [/list] [i] Works for every character. [/i] This mod does not disable achievements. (as long as you've beaten Mom once) ----------------------------------------------------- This mod also works with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2487535818]",
+   "version": "2.13",
+   "bytes": 1788891,
+   "files": 46,
+   "parts": 1
+  },
+  {
+   "id": "pretty-princess",
+   "name": "Pretty princess",
+   "description": "Now you can have your very own Princess! Isn't she adorable?",
+   "version": "1.1",
+   "bytes": 8111,
+   "files": 3,
+   "parts": 1
+  },
+  {
+   "id": "regret-pedestals",
+   "name": "Regret Pedestals",
+   "description": "",
+   "version": "1.3",
+   "bytes": 2479,
+   "files": 2,
+   "parts": 1
+  },
+  {
+   "id": "simple_fps",
+   "name": "Simple FPS Counter",
+   "description": "",
+   "version": "1.1",
+   "bytes": 156382,
+   "files": 5,
+   "parts": 1
+  },
+  {
+   "id": "specialistforgooditems",
+   "name": "The Specialist for Good Items",
+   "description": "[h1] DANCE! [/h1] With this mod on, Isaac will do the Specialist dance when encountering quality 4 items. Works with the entire Untainted cast, Tainted characters will use their respective untainted skin. That being said, Tainteds will eventually be added! Using Mod Config Menu you can tweak: [list] [*]The minimum item Quality Isaac will dance to. [*]Whether Isaac'll dance with Curse of the Blind ",
+   "version": "1.2",
+   "bytes": 10387102,
+   "files": 59,
+   "parts": 1
+  },
+  {
+   "id": "speed-i-need-this",
+   "name": "speed i need this",
+   "description": "!! Tainted Keeper is bugged !! and regular keeper too maybe i dont know",
+   "version": "1.1",
+   "bytes": 138873,
+   "files": 37,
+   "parts": 1
+  },
+  {
+   "id": "timemachine",
+   "name": "TimeMachine",
+   "description": "---------------------- --TimeMachine 1.7-- ---------------------- [Repentance] Let some machines work in the mode similar to Donation Machine. - Slot Machine - Fortune Telling Machine - Crane Game - Blood Donation Machine - Confessional Also some beggars.(1.4 new) - Beggar - Devil Beggar - Key Master - Bomb Bum - Battery Bum - Rotten Beggar - (1.5:now its configurable in tmmc_config.lua) (Beggars ",
+   "version": "1.16",
+   "bytes": 4270,
+   "files": 3,
+   "parts": 1
+  },
+  {
+   "id": "tophat",
+   "name": "Tophat",
+   "description": "Larry just needed a tophat.",
+   "version": "1.2",
+   "bytes": 152200,
+   "files": 8,
+   "parts": 1
+  },
+  {
+   "id": "very-haunted-chests",
+   "name": "Very Haunted Chests",
+   "description": "Makes haunted chests more visible and crusty.",
+   "version": "1.2",
+   "bytes": 1943,
+   "files": 2,
+   "parts": 1
+  },
+  {
+   "id": "whoring-it",
+   "name": "Whoring It",
+   "description": "Replaces the Whore of Babylon popup",
+   "version": "1.1",
+   "bytes": 52277,
+   "files": 7,
+   "parts": 1
+  }
+ ]
+}
