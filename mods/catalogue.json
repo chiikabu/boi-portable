@@ -1653,7 +1653,10 @@
    "unpacked": 26699061,
    "files": 380,
    "parts": 2,
-   "workshop": "3096196396"
+   "workshop": "3096196396",
+   "requires": [
+    "reactionapi"
+   ]
   },
   {
    "id": "reactionapi",
@@ -2125,17 +2128,6 @@
    "files": 10,
    "parts": 1,
    "workshop": "2836316643"
-  },
-  {
-   "id": "unique_progress_bar_icon",
-   "name": "Unique Progress Bar Icon",
-   "description": "[h1]NOTICE! THIS MOD REQUIRES[/h1] [img]https://imgur.com/I4XYxoU.gif[/img] You're the one person who doesn't skip the nightmare transition screen, or you remembered you have Dream Catcher. Looking at the animation, while your character is having a nightmare on the floor, the true nightmare is looking at that bland, inaccurate Isaac icon on the progress bar map! In fact, that very icon is what was used to create the co-op icons, and its odd to think it doesn't use said icons. Well, wish no longer, as this mod does that and more! [h3]Features[/h3] [list] [*]Renders the player's co-op icon in place of the typical Isaac icon that's displayed on the progress bar map. [*]Up to 4 players can be included on the map at the same time. More than 4 if you have twin characters! [*]Dark Esau can be seen on the previous floor as you move to the next if you're playing as Tainted Jacob. [*]Customizeable options with the power of My Dear ImGui. It's at the top of the screen when pressing the ~ key for the debug console under &quot;UPB Icon&quot; [*]Compatible with StageAPI! [/list] To read up on the modding capabilities with this mod, refer to [url=github.com/BenevolusGoat/unique_progress_bar_icon/wiki]the wiki on the GitHub repository[/url].",
-   "version": "1.16",
-   "bytes": 3668282,
-   "unpacked": 4098890,
-   "files": 22,
-   "parts": 1,
-   "workshop": "3228200009"
   },
   {
    "id": "uniquecoins",
