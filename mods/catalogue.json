@@ -1304,6 +1304,20 @@
    "workshop": "2491006386"
   },
   {
+   "id": "musicar",
+   "name": "Car",
+   "description": "[Browser version: the Eurobeat soundtrack is left out so the mod fits; the game's music plays instead.] Its just a fucking car. Use left and right to turn, shift or bomb key to break. Music Callback Mod needed to hear some eurobeat runes (content-id free so you can play on stream or wherever) ModConfigMenu to turn the music off while having music callback mod, njoy. REPENTOGON can also be used as an alternative to the music callback mod. [h1]Is There a Tainted Car? What is the plan?[/h1] I have been working in and out on tainted car ever since this mod released, I now have a solid idea of how it plays and the excecution/code is about 85% done.....When is it going to release?, I dont know....it's already taking WAY longer than what it would normally take mad or than what I'd like, but work has been WAY more busy lately so my mood for coding as a hobby is not as high as it normally is. [h1]Does it work in co-op?[/h1] No, you can still try it tho....but shit will definitely break. [h1]Car is invisible[/h1] Restart the game, as in close it and then reopen it. If that didnt work then check the console for errors, or check your log file for errors and let me know what you find. You can find the logs in: &quot;Documents\\My Games\\Binding of Isaac Repentance&quot; look for the log.txt If you are not able to find errors to report then a blind fix would be to either try disabling other mods or recheck your game files with steam. [h1]This mod messed up my savefile and stole candy from my baby![/h1] The Isaac api doesnt allow me to fuck your savefile so even if I wanted to do it(I kind of do), I wouldnt be able to. What probably happened is that you disabled the mod while a Car run was still active so the game has a current run with a nonexistent character and is having a stroke(this happens with EVERY character mod). To solve this you can either: a- Reenable the mod and end the run thats pending before disabling it again. b- Download this mod ( https://steamcommunity.com/sharedfiles/filedetails/?id=2640358185 ) to regain access, start a new run with a vanilla character and then disable the charafix mod again. [h1]Will you make a soundtrack standalone mod?[/h1] No, I wouldnt feel comfortable publishing a mod that has absolutely nothing of my own in it. Not to mention, there are not enough tracks to cover everything, for a proper soundtrack mod you would also need tracks for the boss fights and the stuff thats missing for Car. [h1]Crashes?[/h1] Before anything try this: [u]Before relaunching the game after the crash check the last few lines of the log, it will tell you the line and mod who crashed, let me know those details (copy the line where it says which mod caused it and paste it in a comment, even if its not this mod)[/u] You can find the log at: &quot;Documents/My Games/The Binding of Isaac Repentance/log.txt&quot; 0-Make sure the mod is updated and properly downloaded. To force an update, do this: unsub-&gt;launch the game and let it load-&gt;resub-&gt;launch the game again 1-Disable all the other mods 2-if the problem persists, then report the details PS: &quot;it doesnt work&quot; wont get a problem solved, try to provide as much info as possible. Feedback is appreciated Music Callback: https://steamcommunity.com/sharedfiles/filedetails/?id=2491006386&amp;searchtext=music+callback Content-id free music by: https://www.youtube.com/c/TurboA (Turbo, Cool Guy!) Music playlist: https://youtube.com/playlist?list=PLaTEv8slEbwtYz1IM0jVURDWRoRmdtucT Model: https://sketchfab.com/3d-models/toyota-ae86-trueno-initial-d-spec-59a0eaaa2af144b2956957e7032d0221",
+   "version": "1.33",
+   "bytes": 36726698,
+   "unpacked": 38562576,
+   "files": 57,
+   "parts": 2,
+   "workshop": "2788006730",
+   "requires": [
+    "music-mod-callback-rep"
+   ]
+  },
+  {
    "id": "neco-arc",
    "name": "Neco-Arc",
    "description": "Tained verision?",
