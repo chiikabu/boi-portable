@@ -754,6 +754,28 @@
    "workshop": "2821675000"
   },
   {
+   "id": "fiendfolio-reloaded",
+   "name": "Damn, Fiend Folio: RELOADED",
+   "description": "[img]https://file.garden/ai9jxcFD4DJrUqSq/reloaded/logo_reloaded_animated.gif[/img] [img]https://file.garden/ai9jxcFD4DJrUqSq/reloaded/fiendfoliomod.png[/img] Can't keep a good [b]Fiend Folio MOD[/b] down! With the power of [url=https://repentogon.com/]REPENTOGON[/url], we present to you the MOD's latest major update for Repentance+! Enjoy an influx of new monsters, bosses, items, and thousands of rooms! This makes the game more challenging, but don't let that scare you off! Our team has had members work on Repentance, Last Judgement, Retribution, Fall From Grace, Revelations, Epiphany, Deliverance, Something Wicked, Restored Collection, Community Remix, Abortionbirth, a Disey Adventure and Devil's Harvest, so we hope you'll all have a good experience, and we thank everyone for being patient! [img]https://file.garden/ai9jxcFD4DJrUqSq/reloaded/featurespurp.png[/img] [list] [*]An enormous overhaul to the game's floors, making them each much more distinct! [*]Over [b]700[/b] new monsters to fight! There's no friends in this basement. [*]An entire [b]30[/b] new bosses ready to kick ass! [*]Over [b]400[/b] fiendish items, and [b]150+[/b] wacky trinkets! [*]More than [b]80,000[/b] new rooms dispersed between the floors. [*]The prankster [b]Fiend[/b]! A glass cannon pyromancer who fights with his friends. [*]The stone-faced [b]Golem[/b]! With his unique pool of [b]100+[/b] rocks, geodes and fossils. [*]The gunslinger [b]Friend[/b]! An imp who channels her pyromancy into her fearsome revolver! [*][b]20+[/b] new challenges! Are you stronger than Golem? [*]Over [b]250[/b] unlocks! Play a fresh save and unlock everything, or hop right in with everything unlocked! [*]Two new curses! Easily disabled if you can't handle them! [*]Incorporated mods: Happy Items Pack, extracts from Guwah's Greatures and Something Wicked, Greg the Egg and more. [*]Heaps of tweaks and changes to help you feel at home! [*]Options! Open this menu with C or F1! [*]Lots and lots of rocks! [*]Piles and piles of guns! [*]Two new transformations! [*]New pill colours! [*]A shampoo bottle? [*]Plenty of surprises! [/list] We've tried our best to support other mods out there, but should you encounter any issues or clashes, please let us know in our [url=https://discord.gg/xVTxhpQ]community discord[/url]! Best played with the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2701118263]Excelsior[/url] music MOD! Make sure to have [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1348031964]Custom Stage API[/url] enabled! [img]https://file.garden/ai9jxcFD4DJrUqSq/spinningbook.gif[/img] [img]https://file.garden/ai9jxcFD4DJrUqSq/credits.png[/img] Fiend, Amy, Budj, BlorengeRhymes, Bustin Blotch, Cadence (Ciirulean), Cake, catinsurance, Cometz, Connor, Deadinfinity, Erfly, Ferrium, foxgirlyuri (Maria), Funkengine, Guillotine-21, Gummy, Guwahavel, Happyhead, HippoCrunchy, J.D., Jerb, jm2k (Julia), Jordy, JuneBeah, minichibis, Narillia, NotYourSagittarius, oilyspoily, orisghost, Oroshibu, peas, Pixl, PixelPlz, pkpseudo, Poyo, RedRachis, RenRen, Sadly Just Al, Sbody2, Sin, SnakeBlock, Sunil_B, TaigaTreant, THX, TitaniumGrunt7 (Vermin), Xalum (A more detailed list is found in the ingame mod menu) [img]https://file.garden/ai9jxcFD4DJrUqSq/official%20links.png[/img] Join our community Discord server! [url]https://discord.gg/xVTxhpQ[/url] Fiend Folio Official Wiki! [url]https://fiendfolio.wiki.gg/wiki/Fiend_Folio_Wiki[/url] Official awesome soundtrack! [url]https://mistajub.bandcamp.com/album/fiendfolio-mod[/url] Follow Fiend on Bluesky! [url]https://bsky.app/profile/FiendFolioMOD.bsky.social[/url] Follow Fiend on Twitter! [url]https://twitter.com/FiendFolioMOD[/url] Maria VS Jay in Smash: Mario Mirror Match [url]https://www.youtube.com/watch?v=eFWzXVQoKnU[/url] Maria VS Jay: The Revenge Match [url]https://www.youtube.com/watch?v=8HPD_nf9E4E[/url] [img]https://file.garden/ai9jxcFD4DJrUqSq/mirrors.png[/img] [url=https://www.dropbox.com/sh/ahqcrjgr1k6dgu5/AAA1sSm5j-FIfTOgXOA4ljZPa?dl=0]Dropbox Mirror[/url] [img]https://file.garden/ai9jxcFD4DJrUqSq/help.png[/img] We understand we can never get things perfect. The best way to report bugs to us is in our in our [url=https://discord.gg/xVTxhpQ]community discord[/url]! Please let us know when things are going wrong, we'll try our best to fix it or help you out!",
+   "version": "1.8",
+   "bytes": 428678807,
+   "unpacked": 667364395,
+   "files": 20814,
+   "parts": 0,
+   "packed": {
+    "base": "pk",
+    "index": "a75ee0b258e94d39ed57.idx",
+    "indexBytes": 606770,
+    "eagerBytes": 12818450,
+    "storedBytes": 428678807
+   },
+   "workshop": "3778123093",
+   "requires": [
+    "repentogon",
+    "stageapi15"
+   ]
+  },
+  {
    "id": "fireworks-for-good-items",
    "name": "Fireworks for Good Items",
    "description": "Simple mod which spawns fireworks on good items. Configurable with [url=steamcommunity.com/sharedfiles/filedetails/?id=2681875787] Mod Config Menu Pure[/url]! The mod icon had to be compressed so watch the video for a better look of how it looks in-game. Happy new year!",
@@ -1715,6 +1737,17 @@
    "parts": 1
   },
   {
+   "id": "repentogon",
+   "name": "REPENTOGON (browser)",
+   "description": "A REPENTOGON-compatible API for the browser port. Not REPENTOGON itself: its Lua functions and callbacks, rebuilt for the game version the port runs, a part at a time. Mods see it only once what they use is covered.",
+   "version": "1",
+   "bytes": 133259,
+   "unpacked": 464569,
+   "files": 19,
+   "parts": 1,
+   "workshop": "3127536138"
+  },
+  {
    "id": "reverb-fart-meme-sound-effect",
    "name": "Reverb Fart Meme Sound Effect",
    "description": "Made as a request. It's exactly what you expect.",
@@ -1856,6 +1889,17 @@
    "files": 8,
    "parts": 1,
    "workshop": "2889636418"
+  },
+  {
+   "id": "stageapi15",
+   "name": "Custom Stage API",
+   "description": "[h1]Repentance Stage API[/h1] It's an API for making custom stages. Built from scratch to replace Revelations' StageAPI. Incompatible with old Revelations, needed for new version. Special thanks to the artists whose floors make up the thumbnail! Poyo - Glacier, Boiler, Mortis Cometz - The Future If you're looking for the Afterbirth+ version of StageAPI, it can be found [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2498098491]here[/url]. For developers, a more up to date version of StageAPI can be found at [url=https://github.com/Meowlala/BOIStageAPI15]our Github repository.[/url] Please report any issues you find there!",
+   "version": "2.42",
+   "bytes": 5130960,
+   "unpacked": 7536775,
+   "files": 451,
+   "parts": 1,
+   "workshop": "1348031964"
   },
   {
    "id": "stats-plus",
