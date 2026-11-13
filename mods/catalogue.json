@@ -1741,8 +1741,8 @@
    "name": "REPENTOGON (browser)",
    "description": "A REPENTOGON-compatible API for the browser port. Not REPENTOGON itself: its Lua functions and callbacks, rebuilt for the game version the port runs, a part at a time. Mods see it only once what they use is covered.",
    "version": "1",
-   "bytes": 133259,
-   "unpacked": 464569,
+   "bytes": 142815,
+   "unpacked": 495880,
    "files": 19,
    "parts": 1,
    "workshop": "3127536138"
