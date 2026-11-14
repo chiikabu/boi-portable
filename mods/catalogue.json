@@ -773,7 +773,8 @@
    "requires": [
     "repentogon",
     "stageapi15"
-   ]
+   ],
+   "experimental": true
   },
   {
    "id": "fireworks-for-good-items",
